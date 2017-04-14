@@ -1,3 +1,4 @@
+@import url("http://fonts.googleapis.com/css?family=Lato:100, 300, 400, 700, 900");
 .srt {
   border: 0;
   clip: rect(0 0 0 0);
@@ -192,8 +193,25 @@ th {
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
 header {
-  text-align: center; }
+  text-align: center;
+  padding: 3em 0; }
+
+h1 {
+  font-weight: 300;
+  font-size: 2.625em;
+  line-height: 1.09524;
+  margin-bottom: 1.66667em; }
+
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-size: 1.5em; }
 
 .site-logo {
   margin-bottom: 2em; }
