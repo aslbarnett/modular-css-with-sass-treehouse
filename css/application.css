@@ -215,3 +215,28 @@ h2 {
 
 .site-logo {
   margin-bottom: 2em; }
+
+.btn--default,
+.progbar--default,
+.tooltip--default {
+  background-color: #52bab3; }
+
+.btn--success,
+.progbar--success,
+.tooltip--success {
+  background-color: #5ece7f; }
+
+.btn--error,
+.progbar--error,
+.tooltip--error {
+  background-color: #e67478; }
+
+.btn--warning,
+.progbar--warning,
+.tooltip--warning {
+  background-color: #ff784f; }
+
+.btn--info,
+.progbar--info,
+.tooltip--info {
+  background-color: #9279c3; }
